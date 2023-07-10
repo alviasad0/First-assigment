@@ -257,3 +257,30 @@
     color: white;
     background-color: #E55473;
 }
+
+/* ################# footer  section styling #################  */
+
+.footer-main{
+    background-color: #111010;
+    color: white;
+    text-align: center;
+    margin-top: 130px;
+}
+.footer-title{
+   
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 130px;
+}
+.footer-flower-red{
+    color: red;
+}
+.footer-paragraph{
+    width: 600px;
+    margin: 25px auto;
+    font-weight: 400;
+    font-size: 18px;
+}
+.footer-small{
+    padding-bottom: 130px;
+}
