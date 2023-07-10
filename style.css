@@ -160,3 +160,35 @@ background: rgba(229, 84, 115, 0.05);
     font-weight: 700;
     font-size: 20px;
 }
+
+/* ######################### instagram section styling ############# */
+
+.instragram-section-main{
+    margin-top: 130px;
+}
+.instragram-section-content{
+    text-align: center;
+}
+.instragram-section-heading{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800
+}
+.instagram-section-paragraph{
+    width: 600px;
+    margin: 25px auto;
+    font-weight: 400;
+    font-size: 18px;
+    color: #7a7878;
+}
+.instragram-all-boxes{
+    display: flex;
+    margin-top: 50px;
+    gap:30px;
+    justify-content: center;
+}
+.instagram-box{
+    width: 340px;
+    height: 400px;
+}
+
