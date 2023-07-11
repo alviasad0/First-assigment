@@ -1,8 +1,9 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Raleway', sans-serif;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600&family=Foldit:wght@500&family=Kablammo&family=Montserrat:ital,wght@0,300;1,100;1,300&family=Open+Sans:wght@400;700;800&family=Poppins:ital,wght@0,200;0,500;0,900;1,500;1,600&family=Raleway:ital,wght@0,400;0,500;0,700;0,900;1,400;1,700;1,900&family=Roboto:wght@300&display=swap');
 /* ############################### header section styling ################# */
 
 .header-section-main{
@@ -34,7 +35,7 @@ nav a {
     text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     font-size: 40px;
     font-style: normal;
-    font-weight: 800;
+    font-weight: 900;
   
 }
 .nav-btn {
@@ -65,9 +66,10 @@ nav a {
 
 .cover-title {
     color: #272727;
-    font-size: 80px;
+    font-size: 75px;
     margin-top: 200px;
-    font-weight: 800;
+    font-weight: 700;
+    font-style: italic;
 }
 
 .cover-section-paragraph {
@@ -271,11 +273,14 @@ nav a {
 .singup-section-title {
     color: #272727;
     font-size: 40px;
-    font-weight: 800
+    font-weight: 700
 }
 
 .singup-section-span-red {
     color: red;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 700;
 }
 
 .singup-section-paragraph {
@@ -395,6 +400,8 @@ nav a {
 }
 .footer-flower-red{
     color: red;
+    font-style: italic;
+
 }
 .footer-paragraph{
     width: 600px;
